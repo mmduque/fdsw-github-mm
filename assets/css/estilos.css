@@ -5,7 +5,7 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/Suiza.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
@@ -37,3 +37,6 @@ body {
   }
 
 }
+
+
+
